@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shin-earlysloth/redirect-ie-to-edge/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/shin-earlysloth/redirect-ie-to-edge/static/js/main.a1a9e69b.chunk.js",
+    "main.js.map": "/shin-earlysloth/redirect-ie-to-edge/static/js/main.a1a9e69b.chunk.js.map",
+    "runtime-main.js": "/shin-earlysloth/redirect-ie-to-edge/static/js/runtime-main.1e949914.js",
+    "runtime-main.js.map": "/shin-earlysloth/redirect-ie-to-edge/static/js/runtime-main.1e949914.js.map",
+    "static/js/2.b6f66c3c.chunk.js": "/shin-earlysloth/redirect-ie-to-edge/static/js/2.b6f66c3c.chunk.js",
+    "static/js/2.b6f66c3c.chunk.js.map": "/shin-earlysloth/redirect-ie-to-edge/static/js/2.b6f66c3c.chunk.js.map",
+    "static/js/3.3fd7587c.chunk.js": "/shin-earlysloth/redirect-ie-to-edge/static/js/3.3fd7587c.chunk.js",
+    "static/js/3.3fd7587c.chunk.js.map": "/shin-earlysloth/redirect-ie-to-edge/static/js/3.3fd7587c.chunk.js.map",
+    "index.html": "/shin-earlysloth/redirect-ie-to-edge/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/shin-earlysloth/redirect-ie-to-edge/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b6f66c3c.chunk.js.LICENSE.txt": "/shin-earlysloth/redirect-ie-to-edge/static/js/2.b6f66c3c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/shin-earlysloth/redirect-ie-to-edge/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e949914.js",
+    "static/js/2.b6f66c3c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a1a9e69b.chunk.js"
+  ]
+}
